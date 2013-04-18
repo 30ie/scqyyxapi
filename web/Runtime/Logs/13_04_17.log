@@ -1,0 +1,1499 @@
+[ 2013-04-17T15:01:54+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002801s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.148402s ]
+
+[ 2013-04-17T15:02:14+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003384s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.031297s ]
+
+[ 2013-04-17T15:05:45+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003855s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.031663s ]
+
+[ 2013-04-17T15:05:47+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.032697s ]
+
+[ 2013-04-17T15:07:00+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001911s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.031308s ]
+
+[ 2013-04-17T15:07:02+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001560s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.032153s ]
+
+[ 2013-04-17T15:07:04+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.034705s ]
+
+[ 2013-04-17T15:07:26+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001575s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.031332s ]
+
+[ 2013-04-17T15:07:35+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.040804s ]
+
+[ 2013-04-17T15:08:16+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003262s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030316s ]
+
+[ 2013-04-17T15:08:25+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030676s ]
+
+[ 2013-04-17T15:10:22+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002850s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030716s ]
+
+[ 2013-04-17T15:10:23+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.031212s ]
+
+[ 2013-04-17T15:10:25+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.032319s ]
+
+[ 2013-04-17T15:12:38+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002830s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.042225s ]
+
+[ 2013-04-17T15:13:26+08:00 ] 127.0.0.1 /hy30ie/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.006167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006353s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.032908s ]
+
+[ 2013-04-17T15:14:40+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2013-04-17T15:15:59+08:00 ] ERR: (ThinkException) 无法加载模块:SiteList
+[ 2013-04-17T15:17:24+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2013-04-17T15:17:33+08:00 ] 127.0.0.1 /hy30ie/index.php/Index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002257s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002425s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.038248s ]
+
+[ 2013-04-17T15:17:39+08:00 ] 127.0.0.1 /hy30ie/index.php/Index
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001792s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001943s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030588s ]
+
+[ 2013-04-17T15:17:46+08:00 ] ERR: (ThinkException) 无法加载模块:SiteList
+[ 2013-04-17T15:18:13+08:00 ] ERR: (ThinkException) 无法加载模块:RankList
+[ 2013-04-17T15:20:00+08:00 ] 127.0.0.1 /hy30ie/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003349s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003510s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003653s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030370s ]
+
+[ 2013-04-17T15:20:55+08:00 ] ERR: (ThinkException) 无法加载模块:RankList
+[ 2013-04-17T15:21:05+08:00 ] 127.0.0.1 /api/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001877s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002044s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001510s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030401s ]
+
+[ 2013-04-17T15:26:39+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003260s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.032254s ]
+
+[ 2013-04-17T15:26:48+08:00 ] 127.0.0.1 /scqyyxapi/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030458s ]
+
+[ 2013-04-17T15:26:54+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003700s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003843s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.031331s ]
+
+[ 2013-04-17T15:28:58+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003306s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.019309s ]
+INFO: [ view_template ] --END-- [ RunTime:0.019450s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.107158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107288s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002695s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.021653s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.003910s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.012371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.041117s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.012146s ]
+INFO: [ view_end ] --END-- [ RunTime:0.012264s ]
+
+[ 2013-04-17T15:29:11+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000851s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000985s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012623s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000961s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000857s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000639s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000978s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003751s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001407s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001524s ]
+
+[ 2013-04-17T15:30:16+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000859s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000985s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.014335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014475s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000788s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000821s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000640s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003511s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001195s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001302s ]
+
+[ 2013-04-17T15:30:43+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000877s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001004s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013207s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000820s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001087s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000820s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004099s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001262s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001382s ]
+
+[ 2013-04-17T15:33:02+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002762s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003911s ]
+INFO: [ view_template ] --END-- [ RunTime:0.004055s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.020961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021098s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002208s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002346s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002101s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002763s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009878s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003540s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003664s ]
+
+[ 2013-04-17T15:33:58+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003983s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004137s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030146s ]
+
+[ 2013-04-17T15:34:07+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002107s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002284s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001775s ]
+
+[ 2013-04-17T15:35:18+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001670s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001816s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002683s ]
+
+[ 2013-04-17T15:35:20+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001674s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001822s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+
+[ 2013-04-17T15:35:27+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003836s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003978s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.019959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020097s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002355s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002439s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002497s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010060s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002629s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002746s ]
+
+[ 2013-04-17T15:35:47+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001003s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001140s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013490s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000782s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000804s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000625s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003878s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001342s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001481s ]
+
+[ 2013-04-17T15:36:09+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001308s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001053s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001207s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012833s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000917s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000845s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000663s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000965s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003693s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001394s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001507s ]
+
+[ 2013-04-17T15:36:13+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001305s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000962s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001105s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013259s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000778s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000822s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000639s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003517s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001513s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001644s ]
+
+[ 2013-04-17T15:36:16+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank?dopost=
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003601s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003759s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+
+[ 2013-04-17T15:37:11+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000964s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001097s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013995s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000805s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001007s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000979s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004182s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001780s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002265s ]
+
+[ 2013-04-17T15:37:13+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank?dosave=
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001614s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001754s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001494s ]
+
+[ 2013-04-17T15:37:31+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003641s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003800s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.020803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020950s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002416s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002496s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002085s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009664s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002869s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002989s ]
+
+[ 2013-04-17T15:37:33+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001818s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001974s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+
+[ 2013-04-17T15:37:37+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002046s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002187s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+
+[ 2013-04-17T15:37:45+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001597s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001733s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+
+[ 2013-04-17T15:37:46+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001610s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001750s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+
+[ 2013-04-17T15:37:50+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001736s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001891s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+
+[ 2013-04-17T15:38:23+08:00 ] ERR: [1] Call to undefined function  get_area() E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 84 行.
+[ 2013-04-17T15:38:42+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000847s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000975s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.016054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016213s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001115s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001240s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000970s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004971s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001540s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001681s ]
+
+[ 2013-04-17T15:38:43+08:00 ] ERR: [1] Call to undefined function  get_area() E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 84 行.
+[ 2013-04-17T15:39:14+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000896s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001116s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013268s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000777s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000804s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000623s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000984s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003492s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001243s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001352s ]
+
+[ 2013-04-17T15:39:16+08:00 ] ERR: [1] Call to undefined function  get_area() E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 84 行.
+[ 2013-04-17T15:41:01+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002657s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003826s ]
+INFO: [ view_template ] --END-- [ RunTime:0.003969s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.022511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022647s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002172s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002189s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002085s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009212s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003104s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003245s ]
+
+[ 2013-04-17T15:42:05+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001005s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001138s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014076s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000810s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000842s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000673s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000995s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003640s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001439s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001570s ]
+
+[ 2013-04-17T15:42:11+08:00 ] 127.0.0.1 /scqyyxapi/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000902s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001030s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014017s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000814s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001064s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000880s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004135s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001997s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002255s ]
+
+[ 2013-04-17T15:42:19+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002992s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003131s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.033687s ]
+
+[ 2013-04-17T15:42:26+08:00 ] ERR: (ThinkException) 无法加载模块:sitelist
+[ 2013-04-17T15:42:30+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001900s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002064s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.031047s ]
+
+[ 2013-04-17T15:42:55+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001764s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000870s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000997s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013050s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000896s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000920s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000671s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000956s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003766s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001224s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001330s ]
+
+[ 2013-04-17T15:43:02+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001741s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001895s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002714s ]
+
+[ 2013-04-17T15:43:43+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.005314s ]
+INFO: [ view_template ] --END-- [ RunTime:0.005485s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.023856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024003s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002200s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002836s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002725s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010736s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002722s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002832s ]
+
+[ 2013-04-17T15:43:44+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001894s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002068s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001383s ]
+NOTIC: [8] Undefined variable: arrs E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 15 行.
+NOTIC: [8] Undefined variable: arrs E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 16 行.
+NOTIC: [8] Undefined variable: arrs E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 16 行.
+NOTIC: [8] Undefined variable: arrs E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 16 行.
+
+[ 2013-04-17T15:44:20+08:00 ] ERR: [1] Call to undefined function  get_onlineip() E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 9 行.
+[ 2013-04-17T15:44:44+08:00 ] 127.0.0.1 /scqyyxapi/index.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000871s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001005s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013933s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001097s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000980s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000660s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004306s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001427s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001562s ]
+
+[ 2013-04-17T15:44:47+08:00 ] ERR: [1] Call to undefined function  get_onlineip() E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 9 行.
+[ 2013-04-17T15:45:41+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001889s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002058s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003621s ]
+
+[ 2013-04-17T15:45:46+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001944s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002109s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001923s ]
+
+[ 2013-04-17T15:48:06+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003408s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.003865s ]
+INFO: [ view_template ] --END-- [ RunTime:0.004022s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.023900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024037s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002538s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002226s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002043s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009879s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003211s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003338s ]
+
+[ 2013-04-17T15:48:07+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003174s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003349s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001578s ]
+
+[ 2013-04-17T15:48:12+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001793s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001974s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+
+[ 2013-04-17T15:48:45+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001750s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001905s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.030377s ]
+
+[ 2013-04-17T15:49:46+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001075s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001222s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013855s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000981s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001309s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000979s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001937s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005602s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001311s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001427s ]
+
+[ 2013-04-17T15:50:03+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000916s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001049s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013723s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000803s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000808s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000623s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003618s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001334s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001450s ]
+
+[ 2013-04-17T15:50:04+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002057s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002232s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001629s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.032928s ]
+
+[ 2013-04-17T15:52:28+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002827s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.004314s ]
+INFO: [ view_template ] --END-- [ RunTime:0.004459s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.020838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020977s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002194s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.002747s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002032s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009649s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003518s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003630s ]
+
+[ 2013-04-17T15:52:30+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003433s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003575s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+
+[ 2013-04-17T15:52:53+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001826s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001993s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+
+[ 2013-04-17T15:53:00+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001828s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001987s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+
+[ 2013-04-17T15:53:04+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003699s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003874s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001669s ]
+
+[ 2013-04-17T15:53:59+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001640s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001782s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+
+[ 2013-04-17T15:54:01+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001728s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001875s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+
+[ 2013-04-17T15:54:02+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002177s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002362s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+
+[ 2013-04-17T15:54:05+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001701s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001894s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+
+[ 2013-04-17T15:58:40+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003188s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003328s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003629s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.009093s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( sid=1 AND kid = 2 )  [ RunTime:0.056033s ]
+
+[ 2013-04-17T16:00:34+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002175s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002335s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008454s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' )  [ RunTime:0.016356s ]
+
+[ 2013-04-17T16:02:29+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003245s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003403s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003332s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.009145s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) LIMIT 1   [ RunTime:0.001428s ]
+
+[ 2013-04-17T16:04:23+08:00 ] ERR: [4] syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 35 行.
+[ 2013-04-17T16:04:38+08:00 ] ERR: [4] syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 35 行.
+[ 2013-04-17T16:04:48+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001827s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001987s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007714s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) LIMIT 1   [ RunTime:0.001298s ]
+
+[ 2013-04-17T16:08:06+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003293s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003472s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003323s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008177s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) LIMIT 0,1   [ RunTime:0.001332s ]
+
+[ 2013-04-17T16:08:13+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002074s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002243s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008251s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) LIMIT 0,2   [ RunTime:0.001303s ]
+
+[ 2013-04-17T16:08:42+08:00 ] ERR: [4] syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 35 行.
+[ 2013-04-17T16:08:49+08:00 ] ERR: [4] syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 35 行.
+[ 2013-04-17T16:08:53+08:00 ] ERR: [4] syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 35 行.
+[ 2013-04-17T16:09:21+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002400s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004074s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001885s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008674s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate desc LIMIT 0,2   [ RunTime:0.017523s ]
+
+[ 2013-04-17T16:09:42+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002056s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002258s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001632s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008405s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate asc LIMIT 0,2   [ RunTime:0.017392s ]
+
+[ 2013-04-17T16:10:32+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002999s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003154s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004440s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.010532s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.034101s ]
+
+[ 2013-04-17T16:11:54+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001731s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001883s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001620s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.009716s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate asc LIMIT 0,1   [ RunTime:0.017184s ]
+
+[ 2013-04-17T16:12:03+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.005654s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005816s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002485s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.010004s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017167s ]
+
+[ 2013-04-17T16:12:07+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001592s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001727s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008458s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016995s ]
+
+[ 2013-04-17T16:15:55+08:00 ] ERR: [1] Call to a member function order() on a non-object E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 35 行.
+[ 2013-04-17T16:16:07+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001676s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001819s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007761s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016217s ]
+SQL: INSERT INTO `v9_rank` (`sid`,`kid`,`search_engine`,`rpage`,`rank`,`ip`,`city`) VALUES (1,2,1,1,6,'183.228.58.208','中国重庆市重庆市') [ RunTime:0.038334s ]
+
+[ 2013-04-17T16:23:47+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003152s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003321s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003342s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.009289s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016645s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 45 行.
+SQL: INSERT INTO `v9_rank` (`sid`,`kid`,`search_engine`,`rpage`,`rank`,`ip`,`city`,`pubdate`) VALUES (1,2,1,1,6,'183.228.58.208','中国重庆市重庆市',1366128000) [ RunTime:0.001224s ]
+
+[ 2013-04-17T16:24:16+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.008558s ]
+INFO: [ view_template ] --END-- [ RunTime:0.008706s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.078520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078672s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.003757s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.015916s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002694s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.003138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025852s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.006241s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006359s ]
+
+[ 2013-04-17T16:24:18+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001747s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007860s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017035s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 44 行.
+SQL: INSERT INTO `v9_rank` (`sid`,`kid`,`search_engine`,`rpage`,`rank`,`ip`,`city`,`pubdate`) VALUES (1,2,1,1,6,'183.228.58.208','中国重庆市重庆市',1366128000) [ RunTime:0.001231s ]
+
+[ 2013-04-17T16:25:18+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002938s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003148s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008152s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016870s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 44 行.
+
+[ 2013-04-17T16:26:05+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003807s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003963s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002992s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007467s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016601s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 44 行.
+
+[ 2013-04-17T16:27:11+08:00 ] ERR: [1] Call to undefined function  data() E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 43 行.
+[ 2013-04-17T16:27:21+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001682s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001838s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007987s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016448s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 45 行.
+
+[ 2013-04-17T16:28:44+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003185s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003326s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004873s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007863s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.015954s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 44 行.
+
+[ 2013-04-17T16:28:50+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002379s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002565s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008636s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016538s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 44 行.
+
+[ 2013-04-17T16:37:40+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003905s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004085s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005082s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 31 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008025s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.105167s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 44 行.
+
+[ 2013-04-17T16:39:45+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003437s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003626s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003434s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007883s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017575s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 45 行.
+
+[ 2013-04-17T16:40:15+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001936s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002090s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008031s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017115s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 37 行.
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 45 行.
+
+[ 2013-04-17T16:40:32+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002066s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002223s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007933s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017187s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 37 行.
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 45 行.
+
+[ 2013-04-17T16:40:35+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002221s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002395s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007605s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016868s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 37 行.
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 45 行.
+
+[ 2013-04-17T16:40:58+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002175s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002339s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008927s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016746s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 37 行.
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 45 行.
+
+[ 2013-04-17T16:41:15+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002035s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002193s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007840s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017221s ]
+NOTIC: [8] Undefined index:  pubdate E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 46 行.
+
+[ 2013-04-17T16:41:57+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.004297s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004468s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003492s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007588s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017355s ]
+
+[ 2013-04-17T16:42:13+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002187s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002354s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.009379s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.018720s ]
+
+[ 2013-04-17T16:42:35+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001664s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001801s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008831s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.018319s ]
+
+[ 2013-04-17T16:43:00+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001680s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001836s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+NOTIC: [8] Undefined index:  s E:\Github\hy30ie\scqyyxapi\Lib\Action\SaveRankAction.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.009715s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.018155s ]
+
+[ 2013-04-17T16:44:48+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003639s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003801s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002812s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.007930s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016973s ]
+
+[ 2013-04-17T16:47:25+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.004311s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004464s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.010651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010799s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.010816s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.741496s ]
+SQL: UPDATE `v9_rank` SET `sid`=1,`kid`=2,`search_engine`=1,`rpage`=1,`rank`=7,`ip`='183.228.58.208',`city`='中国重庆市重庆市' WHERE ( rid=30932 ) [ RunTime:0.148291s ]
+
+[ 2013-04-17T16:47:45+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001805s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001960s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002086s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.010019s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.018080s ]
+SQL: UPDATE `v9_rank` SET `sid`=1,`kid`=2,`search_engine`=1,`rpage`=1,`rank`=6,`ip`='183.228.58.208',`city`='中国重庆市重庆市' WHERE ( rid=30932 ) [ RunTime:0.001441s ]
+
+[ 2013-04-17T16:47:49+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002105s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002290s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001604s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.012234s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017911s ]
+SQL: UPDATE `v9_rank` SET `sid`=1,`kid`=2,`search_engine`=1,`rpage`=1,`rank`=6,`ip`='183.228.58.208',`city`='中国重庆市重庆市' WHERE ( rid=30932 ) [ RunTime:0.001733s ]
+
+[ 2013-04-17T16:51:33+08:00 ] 127.0.0.1 /scqyyxapi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003835s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.017173s ]
+INFO: [ view_template ] --END-- [ RunTime:0.017342s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.198657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.198812s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.005449s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.003672s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.003243s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.003006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015725s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.019276s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019390s ]
+
+[ 2013-04-17T16:51:36+08:00 ] 127.0.0.1 /scqyyxapi/index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.005379s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005536s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.009351s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.017293s ]
+SQL: UPDATE `v9_rank` SET `sid`=1,`kid`=2,`search_engine`=1,`rpage`=1,`rank`=6,`ip`='183.228.58.208',`city`='中国重庆市重庆市' WHERE ( rid=30932 ) [ RunTime:0.001566s ]
+
+[ 2013-04-17T17:03:25+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004319s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.005211s ]
+INFO: [ view_template ] --END-- [ RunTime:0.005379s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.039033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039194s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.003356s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.023968s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.004548s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002715s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.034934s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002884s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002993s ]
+
+[ 2013-04-17T17:04:07+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001211s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001417s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.015022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015168s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000939s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000971s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000740s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004370s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002062s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002209s ]
+
+[ 2013-04-17T17:04:10+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001136s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001266s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.017215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017389s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001055s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001176s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001630s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005518s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2013-04-17T17:04:14+08:00 ] 127.0.0.1 /index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.004432s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004580s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008224s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016895s ]
+SQL: UPDATE `v9_rank` SET `sid`=1,`kid`=2,`search_engine`=1,`rpage`=1,`rank`=10,`ip`='183.228.58.208',`city`='中国重庆市重庆市' WHERE ( rid=30932 ) [ RunTime:0.001839s ]
+
+[ 2013-04-17T17:04:19+08:00 ] 127.0.0.1 /index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002207s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002379s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001809s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.008275s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016941s ]
+SQL: UPDATE `v9_rank` SET `sid`=1,`kid`=2,`search_engine`=1,`rpage`=1,`rank`=6,`ip`='183.228.58.208',`city`='中国重庆市重庆市' WHERE ( rid=30932 ) [ RunTime:0.001911s ]
+
+[ 2013-04-17T17:04:34+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002815s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001492s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001657s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.014392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014534s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000893s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001711s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000896s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005155s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001612s ]
+
+[ 2013-04-17T17:04:36+08:00 ] 127.0.0.1 /index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002136s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002298s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001620s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.316451s ]
+
+[ 2013-04-17T17:04:42+08:00 ] 127.0.0.1 /index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002126s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002301s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+SQL: SHOW COLUMNS FROM `v9_rank` [ RunTime:0.024736s ]
+SQL: SELECT * FROM `v9_rank` WHERE ( `sid` = '1' ) AND ( `kid` = '2' ) ORDER BY pubdate DESC LIMIT 0,1   [ RunTime:0.016881s ]
+SQL: UPDATE `v9_rank` SET `sid`=1,`kid`=2,`search_engine`=1,`rpage`=1,`rank`=6,`ip`='183.228.58.208',`city`='中国重庆市重庆市' WHERE ( rid=30932 ) [ RunTime:0.001248s ]
+
+[ 2013-04-17T17:20:01+08:00 ] ERR: (ThinkException) 无法加载模块:sitelist
+[ 2013-04-17T17:20:08+08:00 ] 127.0.0.1 /index.php/SiteList
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001664s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001800s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+SQL: SELECT A.sid,A.title,A.url,B.kid,B.keywords FROM `v9_seo` A LEFT JOIN `v9_keywords` B  
+ON A.sid = B.sid [ RunTime:0.210081s ]
+
+[ 2013-04-17T17:20:17+08:00 ] 127.0.0.1 /index.php/SaveRank
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001702s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001849s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001635s ]
+
